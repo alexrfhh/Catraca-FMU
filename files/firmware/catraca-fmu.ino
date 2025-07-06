@@ -34,9 +34,9 @@ SDA - 10
 #define AZUL A0
 /* LEDS CATRACA
 
-VERM pino A0
+VERM pino A2
 VERD pino A1
-AZUL pino A2
+AZUL pino A0
 
 */
 
