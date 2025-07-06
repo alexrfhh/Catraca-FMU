@@ -35,6 +35,16 @@ LEDs in different colors provide instant visual feedback to the user, indicating
 - **5V Relay Module:** Electronic device with two electromechanical switches (relays) that enable the activation of higher-power loads from low-voltage microcontroller signals.
 - **PC817 Optocoupler Module:** Component that transfers electrical signals between two electrically isolated circuits.
 
+## 📁 Repository Structure
+
+The project is organized into the following directories:
+
+- **`files/firmware/`**  
+
+- **`files/pictures/`**  
+
+- **`files/schematics/`**  
+
 
 ## 👨‍💻 Author
 
