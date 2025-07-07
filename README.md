@@ -1,4 +1,4 @@
-# Access Control for Turnstile with Arduino and RFID
+# Access Control for Turnstile 
 
 ## 📖 About the Project
 
